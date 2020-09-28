@@ -8,6 +8,8 @@ Django Context Processor
 
 ## Tuto 
 
-# dans le dossier du projet au meme niveau que le settings creer un fichier "context_processors.py" et creer une fonction (qui comprend les differentes requetes et qui retourne juste la variable data)
+# Partie 1
+      dans le dossier du projet au meme niveau que le settings creer un fichier "context_processors.py" et creer une fonction (qui comprend les differentes requetes et qui retourne juste la variable data)
 
-# ensuite ajouter la route de la fonction qui se trouve dans le fichier "context_processors.py" dans le settings.py (dans TEMPLATE_CONTEXT_PROCESSORS)
+# Partie 2
+      ensuite ajouter la route de la fonction qui se trouve dans le fichier "context_processors.py" dans le settings.py (dans TEMPLATE_CONTEXT_PROCESSORS)
